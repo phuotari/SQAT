@@ -1,8 +1,4 @@
 SQAT
 ====
 
-Making my first change ...
-
-My second change ...
-
-Yet another change!
+Actually what I made previously were - to be precice - additions, now I have removed them ...
